@@ -50,7 +50,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UseSineAndCosine">
+  <component name="RunManager" selected="Application.EvenlyDivide">
+    <configuration name="EvenlyDivide" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EvenlyDivide" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="2 4" />
+      <method v="2" />
+    </configuration>
     <configuration name="TenHelloWorld" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="TenHelloWorld" />
       <module name="Computer Science" />
