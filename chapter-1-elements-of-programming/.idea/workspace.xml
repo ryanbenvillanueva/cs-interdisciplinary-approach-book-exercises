@@ -50,10 +50,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.UseArgument">
     <configuration name="TenHelloWorld" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="TenHelloWorld" />
       <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UseArgument" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="UseArgument" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="java Bob" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
