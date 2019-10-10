@@ -50,16 +50,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UseArgument">
+  <component name="RunManager" selected="Application.UseSineAndCosine">
     <configuration name="TenHelloWorld" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="TenHelloWorld" />
       <module name="Computer Science" />
       <method v="2" />
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="5 7" />
+      <method v="2" />
+    </configuration>
     <configuration name="UseArgument" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="UseArgument" />
       <module name="Computer Science" />
-      <option name="PROGRAM_PARAMETERS" value="java Bob" />
+      <option name="PROGRAM_PARAMETERS" value="Alice Bob Carol" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UseSineAndCosine" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="UseSineAndCosine" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="1.74533" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
