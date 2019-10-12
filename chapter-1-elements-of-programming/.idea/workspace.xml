@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RandomInteger">
+  <component name="RunManager" selected="Application.SumOfSines">
     <configuration name="EuclideanDistance" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EuclideanDistance" />
       <module name="Computer Science" />
@@ -67,6 +67,17 @@
       <option name="MAIN_CLASS_NAME" value="RandomInteger" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="5 1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RollingDice" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RollingDice" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SumOfSines" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SumOfSines" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="1.0" />
       <method v="2" />
     </configuration>
     <configuration name="TenHelloWorld" type="Application" factoryName="Application">
