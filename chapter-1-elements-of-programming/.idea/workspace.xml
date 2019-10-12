@@ -50,7 +50,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EvenlyDivide">
+  <component name="RunManager" selected="Application.EuclideanDistance">
+    <configuration name="EuclideanDistance" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EuclideanDistance" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="3 4" />
+      <method v="2" />
+    </configuration>
     <configuration name="EvenlyDivide" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EvenlyDivide" />
       <module name="Computer Science" />
@@ -66,6 +72,12 @@
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="5 7" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TriangleSideLength" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TriangleSideLength" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3" />
       <method v="2" />
     </configuration>
     <configuration name="UseArgument" type="Application" factoryName="Application">
