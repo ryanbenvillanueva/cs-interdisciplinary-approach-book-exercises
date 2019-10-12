@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EuclideanDistance">
+  <component name="RunManager" selected="Application.RandomInteger">
     <configuration name="EuclideanDistance" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="EuclideanDistance" />
       <module name="Computer Science" />
@@ -61,6 +61,12 @@
       <option name="MAIN_CLASS_NAME" value="EvenlyDivide" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="2 4" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomInteger" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomInteger" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="5 1" />
       <method v="2" />
     </configuration>
     <configuration name="TenHelloWorld" type="Application" factoryName="Application">
