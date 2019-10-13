@@ -53,11 +53,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RandomGaussian">
+  <component name="RunManager" selected="Application.DayOfTheWeek">
     <configuration name="ContinuouslyCompoundedInterest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ContinuouslyCompoundedInterest" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="10000 1 .15" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DayOfTheWeek" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DayOfTheWeek" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="10 4 2019" />
       <method v="2" />
     </configuration>
     <configuration name="Displacement" type="Application" factoryName="Application">
@@ -82,6 +88,12 @@
       <option name="MAIN_CLASS_NAME" value="InBetweenDays" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="4 31" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OrderCheck" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="OrderCheck" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="3 1 2" />
       <method v="2" />
     </configuration>
     <configuration name="PolarCoordinates" type="Application" factoryName="Application">
