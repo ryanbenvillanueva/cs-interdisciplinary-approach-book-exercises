@@ -53,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Displacement">
+  <component name="RunManager" selected="Application.InBetweenDays">
     <configuration name="Displacement" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Displacement" />
       <module name="Computer Science" />
@@ -70,6 +70,12 @@
       <option name="MAIN_CLASS_NAME" value="EvenlyDivide" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="2 4" />
+      <method v="2" />
+    </configuration>
+    <configuration name="InBetweenDays" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="InBetweenDays" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="4 31" />
       <method v="2" />
     </configuration>
     <configuration name="RandomInteger" type="Application" factoryName="Application">
