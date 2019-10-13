@@ -11,8 +11,8 @@ public class ContinuouslyCompoundedInterest {
     public static void main(String[] args) {
         double p = Double.parseDouble(args[0]);     // invested dollars
         double t = Double.parseDouble(args[1]);     // time in years
-        double r = Double.parseDouble(args[1]);     // annual interest rate
-        double amount = p * Math.pow(Math.E, r) * Math.pow(Math.E, t);
+        double r = Double.parseDouble(args[2]);     // annual interest rate
+        double amount = p * Math.pow(Math.E, r * t);
         System.out.println(amount);
     }
 }

@@ -53,7 +53,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InBetweenDays">
+  <component name="RunManager" selected="Application.ContinuouslyCompoundedInterest">
+    <configuration name="ContinuouslyCompoundedInterest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ContinuouslyCompoundedInterest" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="10000 1 .15" />
+      <method v="2" />
+    </configuration>
     <configuration name="Displacement" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Displacement" />
       <module name="Computer Science" />
