@@ -53,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DayOfTheWeek">
+  <component name="RunManager" selected="Application.UniformRandomNumbers">
     <configuration name="ContinuouslyCompoundedInterest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ContinuouslyCompoundedInterest" />
       <module name="Computer Science" />
@@ -139,6 +139,11 @@
       <option name="MAIN_CLASS_NAME" value="TriangleSideLength" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="1 2 3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UniformRandomNumbers" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="UniformRandomNumbers" />
+      <module name="Computer Science" />
       <method v="2" />
     </configuration>
     <configuration name="UseArgument" type="Application" factoryName="Application">
