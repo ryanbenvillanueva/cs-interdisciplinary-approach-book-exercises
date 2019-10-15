@@ -35,6 +35,8 @@
   <component name="PropertiesComponent">
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -53,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UniformRandomNumbers">
+  <component name="RunManager" selected="Application.RGBtoCMYK">
     <configuration name="ContinuouslyCompoundedInterest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ContinuouslyCompoundedInterest" />
       <module name="Computer Science" />
@@ -100,6 +102,12 @@
       <option name="MAIN_CLASS_NAME" value="PolarCoordinates" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="12 5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RGBtoCMYK" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RGBtoCMYK" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="0 0 0" />
       <method v="2" />
     </configuration>
     <configuration name="RandomGaussian" type="Application" factoryName="Application">
