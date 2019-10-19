@@ -55,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RGBtoCMYK">
+  <component name="RunManager" selected="Application.GreatCircle">
     <configuration name="ContinuouslyCompoundedInterest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ContinuouslyCompoundedInterest" />
       <module name="Computer Science" />
@@ -84,6 +84,12 @@
       <option name="MAIN_CLASS_NAME" value="EvenlyDivide" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="2 4" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GreatCircle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="GreatCircle" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="-2.33 48.87 122.4 37.8" />
       <method v="2" />
     </configuration>
     <configuration name="InBetweenDays" type="Application" factoryName="Application">
