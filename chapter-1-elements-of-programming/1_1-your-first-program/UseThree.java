@@ -4,7 +4,7 @@
  *  three names as command-line arguments and prints a proper sentence with the
  *  names in the reverse of the order given, so that, for example, java UseThree Alice
  *  Bob Carol prints Hi Carol, Bob, and Alice.
- *  Last modified:     October 10, 2019
+ *  Last modified:     October 20, 2019
  **************************************************************************** */
 
 /******************************************************************************
@@ -22,7 +22,7 @@
  *
  ******************************************************************************/
 
-public class UseArgument {
+public class UseThree {
 
     public static void main(String[] args) {
         System.out.println("Hi " + args[2] + ", " + args[1] + ", and " + args[0] + ".");
