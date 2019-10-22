@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FivePerLine">
+  <component name="RunManager" selected="Application.UniformRandomValues">
     <configuration name="AllEqual" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="AllEqual" />
       <module name="Computer Science" />
@@ -71,6 +71,12 @@
     <configuration name="RollLoadedDie" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="RollLoadedDie" />
       <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UniformRandomValues" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="UniformRandomValues" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
