@@ -50,11 +50,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Hellos">
     <configuration name="AllEqual" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="AllEqual" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="5  5 5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hellos" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Hellos" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="24" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RollLoadedDie" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RollLoadedDie" />
+      <module name="Computer Science" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
