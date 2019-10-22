@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FunctionGrowth">
+  <component name="RunManager" selected="Application.PowersOfTwo">
     <configuration name="AllEqual" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="AllEqual" />
       <module name="Computer Science" />
@@ -71,6 +71,12 @@
       <option name="MAIN_CLASS_NAME" value="Hellos" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="24" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PowersOfTwo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PowersOfTwo" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="2048" />
       <method v="2" />
     </configuration>
     <configuration name="RollLoadedDie" type="Application" factoryName="Application">
