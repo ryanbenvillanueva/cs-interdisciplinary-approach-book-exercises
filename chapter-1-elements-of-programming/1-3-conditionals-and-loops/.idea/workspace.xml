@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UniformRandomValues">
+  <component name="RunManager" selected="Application.FunctionGrowth">
     <configuration name="AllEqual" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="AllEqual" />
       <module name="Computer Science" />
@@ -59,6 +59,11 @@
     </configuration>
     <configuration name="FivePerLine" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="FivePerLine" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FunctionGrowth" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FunctionGrowth" />
       <module name="Computer Science" />
       <method v="2" />
     </configuration>
