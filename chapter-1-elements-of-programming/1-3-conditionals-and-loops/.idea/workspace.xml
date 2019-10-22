@@ -50,11 +50,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PowersOfTwo">
+  <component name="RunManager" selected="Application.ContinuouslyCompoundedInterest">
     <configuration name="AllEqual" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="AllEqual" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="5  5 5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ContinuouslyCompoundedInterest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ContinuouslyCompoundedInterest" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="5000 25 2" />
       <method v="2" />
     </configuration>
     <configuration name="FivePerLine" type="Application" factoryName="Application">
@@ -76,7 +82,7 @@
     <configuration name="PowersOfTwo" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="PowersOfTwo" />
       <module name="Computer Science" />
-      <option name="PROGRAM_PARAMETERS" value="2048" />
+      <option name="PROGRAM_PARAMETERS" value="10000" />
       <method v="2" />
     </configuration>
     <configuration name="RollLoadedDie" type="Application" factoryName="Application">

@@ -16,9 +16,6 @@ public class PowersOfTwo {
             System.out.println("2^" + i + " = " + (int) Math.pow(2, i));
             i++;
         }
-
-
     }
-
 }
 
