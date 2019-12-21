@@ -240,7 +240,7 @@
 
     <!-- has a quadruple nested loop -->
     <suppress checks="NestedForDepth"
-              files="(BruteCollinearPoints).java"/>
+              files="(BruteCollinearPoints|Board|SolverVisualizer).java"/>
 
     <!-- UnicodeTest has non-ASCII characters in header -->
     <suppress id="NotASCII"

@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ContinuouslyCompoundedInterest">
+  <component name="RunManager" selected="Application.Hurricane">
     <configuration name="AllEqual" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="AllEqual" />
       <module name="Computer Science" />
@@ -60,7 +60,7 @@
     <configuration name="ContinuouslyCompoundedInterest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ContinuouslyCompoundedInterest" />
       <module name="Computer Science" />
-      <option name="PROGRAM_PARAMETERS" value="5000 25 2" />
+      <option name="PROGRAM_PARAMETERS" value="5000 25 .02" />
       <method v="2" />
     </configuration>
     <configuration name="FivePerLine" type="Application" factoryName="Application">
@@ -77,6 +77,18 @@
       <option name="MAIN_CLASS_NAME" value="Hellos" />
       <module name="Computer Science" />
       <option name="PROGRAM_PARAMETERS" value="24" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hurricane" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Hurricane" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="95" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Kary" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Kary" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="19 10" />
       <method v="2" />
     </configuration>
     <configuration name="PowersOfTwo" type="Application" factoryName="Application">

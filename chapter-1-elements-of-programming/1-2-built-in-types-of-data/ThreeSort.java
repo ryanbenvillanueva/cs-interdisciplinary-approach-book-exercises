@@ -2,7 +2,7 @@
  *  Name:              Ryan Ben S. Villanueva
  *  1.2.34 Three-sort. Write a program that takes three integer command-line
  *  arguments and prints them in ascending order. Use Math.min() and Math.max().
- *  Last modified:     October 19, 2019
+ *  Last modified:     October 20, 2019
  **************************************************************************** */
 
 public class ThreeSort {

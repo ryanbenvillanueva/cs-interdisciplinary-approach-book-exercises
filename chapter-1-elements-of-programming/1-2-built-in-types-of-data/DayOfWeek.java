@@ -5,10 +5,10 @@
  *  three int commandline arguments: m (month), d (day), and y (year). For m,
  *  use 1 for January, 2 for February, and so forth. For output, print 0 for
  *  Sunday, 1 for Monday, 2 for Tuesday, and so forth.
- *  Last modified:     October 14, 2019
+ *  Last modified:     October 20, 2019
  **************************************************************************** */
 
-public class DayOfTheWeek {
+public class DayOfWeek {
     public static void main(String[] args) {
         int m = Integer.parseInt(args[0]);
         int d = Integer.parseInt(args[1]);

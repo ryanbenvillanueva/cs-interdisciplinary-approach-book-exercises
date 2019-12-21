@@ -9,10 +9,10 @@
  *  curve of order n is a curve of order n-1 followed by an L followed by a
  *  curve of order n-1 traversed in reverse order, and then to figure out a
  *  similar description for the reverse curve.
- *  Last modified:     October 19, 2019
+ *  Last modified:     October 20, 2019
  **************************************************************************** */
 
-public class DragonCurves {
+public class Dragon {
     public static void main(String[] args) {
         String dragon0 = "F";
         String nogard0 = "F";
